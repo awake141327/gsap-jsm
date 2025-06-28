@@ -10,6 +10,7 @@ gsap.to(".card", {
       repeat: -1,
       yoyo: true,
       duration: 0.5,
+      boxShadow: "0 20px 50px rgba(61, 159, 254, 0.6)",
     });
   },
 });
