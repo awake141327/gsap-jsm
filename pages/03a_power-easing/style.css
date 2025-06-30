@@ -1,0 +1,56 @@
+.box {
+  width: 300px;
+  height: 300px;
+  background: linear-gradient(135deg, #6366f1, #a78bfa); /* blue to purple */
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(99, 102, 241, 0.5);
+  opacity: 1;
+  transform: scale(0.5);
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  background: linear-gradient(135deg, #6366f1, #a78bfa); /* blue to purple */
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(99, 102, 241, 0.5);
+  opacity: 1;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.toast {
+  width: 400px;
+  height: 50px;
+  margin-left: 50px;
+  background: linear-gradient(135deg, #6366f1, #a78bfa); /* blue to purple */
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(99, 102, 241, 0.5);
+  opacity: 1;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+  margin-left: 50px;
+  background: linear-gradient(135deg, #6366f1, #a78bfa); /* blue to purple */
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(99, 102, 241, 0.5);
+  opacity: 1;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
